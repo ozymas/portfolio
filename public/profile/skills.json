@@ -1,25 +1,25 @@
 {
-    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
+    "intro": "I love to learn new things and experiment with new technologies in the realm of data science and machine learning.\n",
     "skills": [{
      
-            "title": "Languages & Databases",
+            "title": "Languages, Libraries & Tools",
             "items" : [
      
                 {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
+                    "icon": "images/skills/numpybg.png",
+                    "title": "Numpy"
                 },
                 {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
+                    "icon": "images/skills/pandasbg.png",
+                    "title": "Pandas"
                 },
                 {
-                    "icon": "images/skills/js.png",
-                    "title": "JavaScript"
+                    "icon": "images/skills/tensorflowbg.png",
+                    "title": "Tensorflow"
                 },
                 {
-                    "icon": "images/skills/python.png",
-                    "title": "Python"
+                    "icon": "images/skills/kerasbg.png",
+                    "title": "Keras"
                 },
                 {
                     "icon": "images/skills/mysql.png",
@@ -27,19 +27,24 @@
                 }
         ]},
         {
-            "title": "Frameworks & Technologies",
+            "title": "Languages & Frameworks",
             "items" : [
                 {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
+                },
+                
+                {
+                    "icon": "images/skills/django.png",
+                    "title": "Django"
                 },
                 {
                     "icon": "images/skills/react.png",
                     "title": "React"
                 },
                 {
-                    "icon": "images/skills/nodejs.png",
-                    "title": "Nodejs"
+                    "icon": "images/skills/fast.png",
+                    "title": "fastAPI"
                 }
             ]
         },
@@ -47,8 +52,8 @@
             "title" : "Tools & Platforms",
             "items": [
                 {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
+                    "icon": "images/skills/githubnew.png",
+                    "title": "Github"
                 },
                 {
                     "icon": "images/skills/git.png",

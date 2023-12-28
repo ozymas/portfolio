@@ -1,19 +1,19 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": "Dec 2019 - Apr 2024",
+            "cardTitle": "B.E, Computer Engineering",
+            "cardSubtitle":"Tribhuwan University, IOE",
+            "cardDetailedText": "",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/education/tulogo.png"
             }
         },
         {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "title": "Jun 2019",
+            "cardTitle": "High School, Science",
+            "cardSubtitle":"Kathmandu Bernhardt Sec. School, Balkhu",
+            "cardDetailedText": "CGPA - 3.67"
         }
     ]
 }

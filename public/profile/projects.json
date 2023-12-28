@@ -1,150 +1,113 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/portfolio-poster.png",
-            "title": "Dev Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "image" : "images/projects/prediction.png",
+            "title": "Corn Disease Classification",
+            "bodyText": "- a **CNN** model trained to classify corn diseases based on images of corn leaves \n -  **fastAPI** backend **React** frontend , impressive accuracy of **98%** in training and **97%** on validation data.\n ",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                    "href": "https://github.com/sa9arr/corn-disease-classification"
                 },
                 {
                     "text": "Live",
-                    "href": "https://mayankagarwal.me"
+                    "href": ""
+                }
+            ],
+            "tags" : [
+                "CNN",
+                "Deep Learning",
+                "fastAPI",
+                "tensorflow"
+            ]
+        },
+        {
+            "image" : "images/projects/handwritten1.png",
+            "title": "Handwritten Digits Classifier",
+            "bodyText": "- a handwritten digit classifer made using MNIST dataset that contains 60,000 handwritten digits for training the model with each digit stored in a grayscale image.  ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/sa9arr/deep-learning-projects"
+                },
+                {
+                    "text": "Live",
+                    "href": ""
+                }
+            ],
+            "tags" : [
+                "Python",
+                "keras",
+                "neural network",
+                "seaborn"
+                
+            ]
+        },
+        {
+            "image" : "images/projects/churn.jpeg",
+            "title": "Customer Churn Prediction",
+            "bodyText": "-  A **deep neural network** trained on telecom customer churn dataset, along with some data preprocessing to predict the churn behaviour of customers based on the services, account information and demographic info of the customers",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/sa9arr/deep-learning-projects/tree/master/customer-churn-prediction"
+                }
+            ],
+            "tags" : [
+                "Numpy",
+                "Pandas",
+                "Matplotlib"
+    
+            ]
+        },
+        {
+            "title": "Car Price Prediction",
+
+            "bodyText": "- car price predictor using **linear regression**: The linear regression model is trained on parameters as- brand of car, year of manufacturing, fuel-type and kms driven",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/sa9arr/regression-projects"
+                }
+            ],
+            "tags" : [
+                "Pandas",
+                "Scikit-learn",
+                "Linear Regression"
+                
+            ]
+        },
+        {
+            "title": "Notes App",
+            "bodyText": "- A simple notes app using React in the frotend and Django REST framework in the backend ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/sa9arr/Memoir"
                 }
             ],
             "tags" : [
                 "React",
-                "Portfolio",
-                "JavaScript"
+                "Django REST framework"
+                
             ]
         },
         {
-            "image" : "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "title": "Empee ",
+            "bodyText": "- An employee management system that achieves CRUD functionality.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
-                },
-                {
-                    "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "href": "https://github.com/sa9arr/Empee"
                 }
             ],
             "tags" : [
-                "Python",
+                "mySQL",
                 "Django",
-                "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
-            ]
-        },
-        {
-            "image" : "images/projects/quiet-hours-poster.jpg",
-            "title": "Quiet Hours App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
-                }
-            ],
-            "tags" : [
-                "Java",
-                "Android",
-                "Alarm Manager",
-                "VIT"
-            ]
-        },
-        {
-            "title": "Secure Chat App",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
-                }
-            ],
-            "tags" : [
-                "Java",
-                "Android",
-                "Firebase",
-                "RSA"
-            ]
-        },
-        {
-            "title": "MVVM Sample App",
-            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Room",
-                "Coroutines",
-                "Flow",
-                "Hilt-Dagger",
-                "NetworkBoundResource"
-            ]
-        },
-        {
-            "title": "Feed List App",
-            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Paging 3",
-                "Coroutines",
-                "Flow"
-            ]
-        },
-        {
-            "title": "Task Tracker",
-            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
-                }
-            ],
-            "tags" : [
-                "TypeScript",
-                "Angular 12",
-                "JavaScript"
-            ]
-        },
-        {
-            "title": "Image Encryption/Decryption",
-            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
-                }
-            ],
-            "tags" : [
-                "Python",
-                "Django",
-                "SDES",
-                "Cryptography"
+                "Tailwind CSS"
+                
             ]
         }
+       
     ]
 }

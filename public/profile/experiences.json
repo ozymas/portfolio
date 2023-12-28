@@ -1,33 +1,33 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Project Lead",
+            "subtitle": "Paschimanchal Campus",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Working as a project lead in completion of our final year project on **Football Highlights Generation**"
+                
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "06/2023 – Present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Project Member",
+            "subtitle": "Paschimanchal Campus",
+            "workType": "Team work",
             "workDescription": [
-                "Worked on abc."
+                "Worked with a team on integrating apis for our group project entitled **Bigya - Find the Experts you want**"
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "07/2022 – 02/2023"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "Secretary",
+            "subtitle": "Talking Minds",
+            "workType": "Volunteer",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Worked as a Secretary for a voluntary organization which emphasized on developing **Public Speaking** and **Networking** skills."
+            
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "07/2021 – 06/2022"
         }
     ]
 }
