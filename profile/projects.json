@@ -1,0 +1,113 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/prediction.png",
+            "title": "Corn Disease Classification",
+            "bodyText": "- a **CNN** model trained to classify corn diseases based on images of corn leaves \n -  **fastAPI** backend **React** frontend , impressive accuracy of **98%** in training and **97%** on validation data.\n ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/sa9arr/corn-disease-classification"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://www.youtube.com/watch?v=ZOwgG6mJfcA"
+                }
+            ],
+            "tags" : [
+                "CNN",
+                "Deep Learning",
+                "fastAPI",
+                "tensorflow"
+            ]
+        },
+        {
+            "image" : "images/projects/handwritten1.png",
+            "title": "Handwritten Digits Classifier",
+            "bodyText": "- a handwritten digit classifer made using MNIST dataset that contains 60,000 handwritten digits for training the model with each digit stored in a grayscale image.  ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/sa9arr/deep-learning-projects"
+                },
+                {
+                    "text": "Live",
+                    "href": ""
+                }
+            ],
+            "tags" : [
+                "Python",
+                "keras",
+                "neural network",
+                "seaborn"
+                
+            ]
+        },
+        {
+            "image" : "images/projects/churn.jpeg",
+            "title": "Customer Churn Prediction",
+            "bodyText": "-  A **deep neural network** trained on telecom customer churn dataset, along with some data preprocessing to predict the churn behaviour of customers based on the services, account information and demographic info of the customers",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/sa9arr/deep-learning-projects/tree/master/customer-churn-prediction"
+                }
+            ],
+            "tags" : [
+                "Numpy",
+                "Pandas",
+                "Matplotlib"
+    
+            ]
+        },
+        {
+            "title": "Car Price Prediction",
+
+            "bodyText": "- car price predictor using **linear regression**: The linear regression model is trained on parameters as- brand of car, year of manufacturing, fuel-type and kms driven",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/sa9arr/regression-projects"
+                }
+            ],
+            "tags" : [
+                "Pandas",
+                "Scikit-learn",
+                "Linear Regression"
+                
+            ]
+        },
+        {
+            "title": "Notes App",
+            "bodyText": "- A simple notes app using React in the frotend and Django REST framework in the backend ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/sa9arr/Memoir"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Django REST framework"
+                
+            ]
+        },
+        {
+            "title": "Empee ",
+            "bodyText": "- An employee management system that achieves CRUD functionality.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/sa9arr/Empee"
+                }
+            ],
+            "tags" : [
+                "mySQL",
+                "Django",
+                "Tailwind CSS"
+                
+            ]
+        }
+       
+    ]
+}

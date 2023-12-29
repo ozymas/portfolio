@@ -1,0 +1,68 @@
+{
+    "intro": "I love to learn new things and experiment with new technologies in the realm of data science and machine learning.\n",
+    "skills": [{
+     
+            "title": "Languages, Libraries & Tools",
+            "items" : [
+     
+                {
+                    "icon": "images/skills/numpybg.png",
+                    "title": "Numpy"
+                },
+                {
+                    "icon": "images/skills/pandasbg.png",
+                    "title": "Pandas"
+                },
+                {
+                    "icon": "images/skills/tensorflowbg.png",
+                    "title": "Tensorflow"
+                },
+                {
+                    "icon": "images/skills/kerasbg.png",
+                    "title": "Keras"
+                },
+                {
+                    "icon": "images/skills/mysql.png",
+                    "title": "MySQL"
+                }
+        ]},
+        {
+            "title": "Languages & Frameworks",
+            "items" : [
+                {
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
+                },
+                
+                {
+                    "icon": "images/skills/django.png",
+                    "title": "Django"
+                },
+                {
+                    "icon": "images/skills/react.png",
+                    "title": "React"
+                },
+                {
+                    "icon": "images/skills/fast.png",
+                    "title": "fastAPI"
+                }
+            ]
+        },
+        {
+            "title" : "Tools & Platforms",
+            "items": [
+                {
+                    "icon": "images/skills/githubnew.png",
+                    "title": "Github"
+                },
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                },
+                {
+                    "icon": "images/skills/docker.png",
+                    "title": "Docker"
+                }
+            ]
+    }
+]}

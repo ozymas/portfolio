@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/sagar-kandel/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/sa9arr"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:sagarkandel909@gmail.com"
+        }
+    ]
+}

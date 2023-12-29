@@ -1,0 +1,33 @@
+{
+    "experiences": [
+        {
+            "title": "Project Lead",
+            "subtitle": "Paschimanchal Campus",
+            "workType": "Full-time",
+            "workDescription": [
+                "Working as a project lead in completion of our final year project on **Football Highlights Generation**"
+                
+            ],
+            "dateText": "06/2023 – Present"
+        },
+        {
+            "title": "Project Member",
+            "subtitle": "Paschimanchal Campus",
+            "workType": "Team work",
+            "workDescription": [
+                "Worked with a team on integrating apis for our group project entitled **Bigya - Find the Experts you want**"
+            ],
+            "dateText": "07/2022 – 02/2023"
+        },
+        {
+            "title": "Secretary",
+            "subtitle": "Talking Minds",
+            "workType": "Volunteer",
+            "workDescription": [
+                "Worked as a Secretary for a voluntary organization which emphasized on developing **Public Speaking** and **Networking** skills."
+            
+            ],
+            "dateText": "07/2021 – 06/2022"
+        }
+    ]
+}
